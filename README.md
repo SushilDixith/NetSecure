@@ -16,9 +16,9 @@ This project was developed to help users visualize, detect, and respond to poten
 
 ### Features
 
-* Live Packet Capture:\*\* Monitors real-time traffic using the Scapy library.
-* Anomaly Detection:\*\* Detects port scans, flood attacks, and ARP spoofing.
-* Threat Intelligence Integration:\*\* Checks IP reputation using the AbuseIPDB API.
+* Live Packet Capture: Monitors real-time traffic using the Scapy library.
+* Anomaly Detection: Detects port scans, flood attacks, and ARP spoofing.
+* Threat Intelligence Integration: Checks IP reputation using the AbuseIPDB API.
 * Automated Alerts: Sends email or Slack notifications for detected threats.
 * Graphical Dashboard: Built with Tkinter and Matplotlib for real-time visualization.
 * Local Database Logging: Stores packets and alerts in an SQLite database for later review.
@@ -74,6 +74,7 @@ git clone https://github.com/SushilDixith/NetSecure.git
 cd NetSecure
 
 pip install requirements.txt -r
+
 
 
 
