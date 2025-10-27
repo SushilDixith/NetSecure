@@ -61,7 +61,7 @@ Platform Compatibility: Windows and Linux
 
 Prerequisites
 
-Make sure you have \*\*Python 3.x\*\* installed along with `pip`.
+Make sure you have Python 3.x installed along with `pip`.
 
 
 
